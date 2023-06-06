@@ -1,0 +1,14 @@
+/data
+*.nc
+*.bbl
+*.aux
+*.out
+*.blg
+*.fls
+*.bcf
+*.xml
+*.synctex.gz
+*.fdb_latexmk
+*.log
+*.gif
+*.mat
