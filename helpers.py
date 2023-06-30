@@ -12,3 +12,4 @@ def get_TNH_idx(dropna=False):
     if dropna:
         TNH = TNH.dropna('time')
     return TNH
+
